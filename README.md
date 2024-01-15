@@ -1,5 +1,5 @@
 # Hi, I'm Shivam 👋
-#### A Full Stack JavaScript Developer, fiddling with modern JS frameworks every now and then, keeping the love for `Vanilla JS` intact :heart:
+#### Currently serving as a Senior Software Engineer having 5+ years of hands-on experience working in Backend Development domain, having forte in JavaScript and its modern runtimes & frameworks. Also, a Startup Explorer having a knack for business side of the things as well!
 
 - 🔭 I’m currently working on *AI SAAS (Node.js | Typescript | GCP | GPT-4 | Docker | n8n | K8s)*
 - 🌱 I’m currently starting to learn *[Golang](https://go.dev/)*
